@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url(../assets/images/pennybackground.jpg);
+}
+
+.first {
+  border: 5px solid black;
+  background-color: white;
+  font-family: Times, serif;
+  margin: 25px;
+  padding: 10px;
+  height: 800px;
+  overflow: scroll;
+  overflow-x: hidden;
+}
+
+.head {
+  text-align: center;
+}
+
+.title {
+  font-size: 60px;
+}

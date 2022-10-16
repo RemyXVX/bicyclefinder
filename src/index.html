@@ -9,8 +9,31 @@
 <body>
   <div class="container">
     <div class="first">
-      <h1>Lost and Found: is your bike missing?</h1>
-      <p>Let us help you find your poor bike.</p>
+      <div class="head">
+        <h1 class="title">Lost and Found: is your bike missing?</h1>
+        <p>Let us help you find your poor bike.</p>
+      </div>
+      <form id="bikes">
+        <div class="one">
+          <label for="location">Enter location:</label>
+          <br>
+          <input id="city" type="address">
+        </div>
+        <div class="two">
+          <p>What color:</p>
+          <select class="planetOpt" id="planetOpt">
+            <option class="option" id="optionColor" value="all">All</option>
+            <option class="option" id="optionColor" value="blue">Blue</option>
+            <option class="option" id="optionColor" value="red">Red</option>
+            <option class="option" id="optionColor" value="green">Green</option>
+            <option class="option" id="optionColor" value="black">Black</option>
+            <option class="option" id="optionColor" value="white">White</option>
+          </select>
+          <br>
+          <button type="submit" id="submitBtn" class="btn btn-secondary btn-lg">submit</button>
+        </div>
+      </form>
+      <span id="pushStuffHere"> </span>
     </div>
   </div>
   
