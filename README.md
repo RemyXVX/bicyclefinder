@@ -19,7 +19,7 @@
 _We will be apply APi in our website that will display a series of lost bikes_
 
 ## Webpage
-* 
+* https://remyxvx.github.io/bicyclefinder/src/
 
 ## Setup/Installation Requirements
 * _Chrome web browser for best compatiblity_
@@ -31,9 +31,9 @@ _We will be apply APi in our website that will display a series of lost bikes_
 
 ⋅⋅⋅[Download here](https://nodejs.org/en/download/)
 
-* _From there download repo for *supercalculator.test.js*_
+* _From there download repo for *bike.test.js*_
 
-⋅⋅⋅[Copy here]()
+⋅⋅⋅[Copy here](https://github.com/RemyXVX/bicyclefinder)
 
 ⋅⋅⋅copy by running;
 
